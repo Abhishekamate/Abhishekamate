@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Amate</h1>
 <h3 align="center">A passionate AWS-DevOps Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif">
+
 - 🌱 I’m currently learning **AWS,Linux,DevOps,**
 
 - 📫 How to reach me **abhiamate2001@gmail.com**
